@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikailkhona
-- 👀 I’m interested in Computational and theoretical systems neuroscience
-- 📫 How to reach me: mikail@mit.edu
+- Hi, I’m Mikail.
+- I’m interested in Computational and theoretical systems neuroscience
+- How to reach me: mikail@mit.edu
 
 <!---
 mikailkhona/mikailkhona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
