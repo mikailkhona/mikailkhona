@@ -1,6 +1,6 @@
 - Hi, I’m Mikail.
-- I’m interested in Computational and theoretical systems neuroscience
-- How to reach me: mikail@mit.edu
+- I’m interested in Deep learning, transformers and language models. I'm also interested in computational neuroscience
+- How to reach me: mikail@mit.edu or mikailkhona@gmail.com
 
 <!---
 mikailkhona/mikailkhona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
